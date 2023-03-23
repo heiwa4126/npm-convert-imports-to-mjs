@@ -1,6 +1,6 @@
 {
   "name": "@heiwa4126/convert-imports-to-mjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts relative imports in TypeScript-generated ES modules to .mjs extensions and renames .js files to .mjs in a specified directory.",
   "main": "index.js",
   "bin": {
@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/heiwa4126/npm-esm-dirname"
+    "url": "https://github.com/heiwa4126/npm-convert-imports-to-mjs"
   },
   "dependencies": {
     "recast": "^0.22.0"
